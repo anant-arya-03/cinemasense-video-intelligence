@@ -116,7 +116,7 @@ CinemaSense AI Studio is suitable for:
 👤 Author
 
 Anant Arya
-B.Tech AI/ML | Minor in AI (IIT Ropar)
+B.Tech AI/ML | Minor in AI (IIT Ropar) , google colab link : https://colab.research.google.com/drive/1uo_ekc4QNkvan_H78bqmG2QG-mcULruE?usp=sharing
 Passionate about AI, creative intelligence, and industry-ready systems.<img width="1908" height="915" alt="Screenshot 2026-01-14 193744" src="https://github.com/user-attachments/assets/26c3a133-30ce-4568-84e2-7fc7fd513643" />
 <img width="1397" height="888" alt="Screenshot 2026-01-14 195533" src="https://github.com/user-attachments/assets/75908b1d-079a-4647-9bd2-c8bd30a3dbc2" />
 <img width="1365" height="685" alt="Screenshot 2026-01-14 195548" src="https://github.com/user-attachments/assets/c9382132-dd50-4313-b623-30598371529a" />
@@ -131,3 +131,4 @@ Passionate about AI, creative intelligence, and industry-ready systems.<img widt
 <img width="1056" height="841" alt="Screenshot 2026-01-14 195735" src="https://github.com/user-attachments/assets/375e26d2-b72c-4fe2-8e1a-b5b4e9e9e0d4" />
 <img width="1035" height="432" alt="Screenshot 2026-01-14 195740" src="https://github.com/user-attachments/assets/53360226-2bb2-441c-8b00-5126ac335d17" />
 <img width="1165" height="894" alt="Screenshot 2026-01-14 195751" src="https://github.com/user-attachments/assets/267bcf1d-76de-465b-b733-a02f94a4c770" />
+
