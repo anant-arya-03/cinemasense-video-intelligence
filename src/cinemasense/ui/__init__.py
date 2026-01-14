@@ -1,0 +1,3 @@
+"""
+CinemaSense UI Components
+"""

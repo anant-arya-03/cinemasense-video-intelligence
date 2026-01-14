@@ -1,0 +1,8 @@
+﻿venv/
+__pycache__/
+.pytest_cache/
+.streamlit/
+logs/
+data/
+.hypothesis/
+.kro/
